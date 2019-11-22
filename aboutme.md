@@ -1,16 +1,21 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
 ---
+### What You Should Know
+ 
+- I'm an avid reader
+- Computer Science is my life, my fingers are always smacking my keyboard
+- History is my second favorite thing in the world
+- Kotlin Developer
+- Award winning IT professional
 
-My name is Inigo Montoya. I have the following qualities:
+### Fields I'm Interested In
+- Machine Learning (for security esp.)
+- Android Development
+- Game Development (including MineCraft and RuneScape plugins)
+- Blockchain Technologies
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+* * *
 
-What else do you need?
-
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Hey! Check out my posts, my projects, or get in touch over any of my social media links for more info!  
