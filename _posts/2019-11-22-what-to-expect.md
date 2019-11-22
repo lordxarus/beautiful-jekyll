@@ -1,6 +1,7 @@
 ---
 title: What to Expect From This Site
 subtitle: A short explanation of what this is
+tags: [information]
 comments: true
 ---
 
