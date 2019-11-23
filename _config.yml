@@ -96,7 +96,7 @@ url-pretty: "JeremyBall.me"  # eg. "deanattali.com/beautiful-jekyll"
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-#gtag: ""
+gtag: "UA-39335398-2"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
