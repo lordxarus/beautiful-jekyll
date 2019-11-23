@@ -1,6 +1,8 @@
 ---
 title: Persevering for The Hell of It
-tags: [personal, self help, life lessons]
+tags: [inspirational, self help, life lessons]
+categories: [personal]
+comments: true
 ---
 
 There is nothing worse than trying your hardest and failing. Life is funny in that way, one learns best from pain. Good things don't shape us like tumult does. Sometimes though, one gets tired of trying. The situation arises and one is tired, no longer knows what to do and sees no path forward. Overwhelm sets in.
